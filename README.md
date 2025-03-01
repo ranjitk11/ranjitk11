@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eng.g Ranjit kshirsagar</h1>
+<h1 align="center">Hi 👋, I'm Engg. Ranjit kshirsagar</h1>
 <h3 align="center">A passionate Electronics and telecommunication Engineer with interest in Robotics and Automation Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitk11&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitk11" /> </p>
